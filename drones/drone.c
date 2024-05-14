@@ -70,6 +70,7 @@ int restoManutencaoDrone(_drone d){
 
 	return 0;
 }
+//mekie acho que consigo editar
 
 /*void drone_Base(void){
     int _cap, _alc;
