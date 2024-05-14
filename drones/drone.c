@@ -70,7 +70,7 @@ int restoManutencaoDrone(_drone d){
 
 	return 0;
 }
-
+//oioioioioioi
 /*void drone_Base(void){
     int _cap, _alc;
     
